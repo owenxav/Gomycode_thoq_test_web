@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Different content" 
+=======
+"Some content" 
+>>>>>>> feature-branch
